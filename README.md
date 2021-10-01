@@ -1,4 +1,4 @@
-[<img src="https://github.com/meetpatel0963/meetpatel0963/master/intro.gif" alt="👋 Hi there! I'm Meet Patel" title="👋 Hi there! I'm Meet Patel"/>]
+[<img src="https://github.com/meetpatel0963/meetpatel0963/blob/master/intro.gif" alt="👋 Hi there! I'm Meet Patel" title="👋 Hi there! I'm Meet Patel"/>]
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=meetpatel0963.meetpatel0963&color=00df00)
 
@@ -38,7 +38,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
