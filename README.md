@@ -44,7 +44,7 @@
 
 ## My Stats
 
-<!-- ![](https://komarev.com/ghpvc/?username=meetpatel0963&color=orange&style=flat-square) -->
+![](https://komarev.com/ghpvc/?username=meetpatel0963&color=orange&style=flat-square)
 
 <p align="center">
     <a href="https://github.com/meetpatel0963">
