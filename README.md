@@ -10,9 +10,9 @@
 ![Badge](https://cp-logo.vercel.app/codeforces/_Meet_Patel_)
 
 ## 📖 About Me
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚝 𝙸𝚗𝚜𝚝𝚒𝚝𝚞𝚝𝚎 𝚘𝚏 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢, 𝙽𝚒𝚛𝚖𝚊 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 - 𝙱𝚊𝚝𝚌𝚑 𝟸0𝟸𝟸
-- 👨‍💻 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛 - 𝙴𝚡𝚙𝚎𝚛𝚝 @𝙲𝚘𝚍𝚎𝚏𝚘𝚛𝚌𝚎𝚜 [_𝙼𝚎𝚎𝚝_𝙿𝚊𝚝𝚎𝚕_](𝚑𝚝𝚝𝚙𝚜://𝚌𝚘𝚍𝚎𝚏𝚘𝚛𝚌𝚎𝚜.𝚌𝚘𝚖/𝚙𝚛𝚘𝚏𝚒𝚕𝚎/_𝙼𝚎𝚎𝚝_𝙿𝚊𝚝𝚎𝚕_)
+- 🖥 Full-stack Software Developer
+- 🎓 Studying Computer Science and Engineering at Institute of Technology, Nirma University - Batch 2022
+- 👨‍💻 Competitive Programmer - Expert @Codeforces [_Meet_Patel_](https://codeforces.com/profile/_Meet_Patel_)
 
 ## Languages
 
