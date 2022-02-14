@@ -7,12 +7,11 @@
     <a href="mailto:meetpatel0963@gmail.com"><img src="https://img.shields.io/badge/-meetpatel0963-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-![Badge](https://cp-logo.vercel.app/codeforces/_Meet_Patel_)
-
 ## 📖 About Me
 - 🖥 Full-stack Software Developer
 - 🎓 Studying Computer Science and Engineering at Institute of Technology, Nirma University - Batch 2022
-- 👨‍💻 Competitive Programmer - Expert @Codeforces [_Meet_Patel_](https://codeforces.com/profile/_Meet_Patel_)
+- 👨‍💻 Competitive Programmer - Expert (1702) @Codeforces [_Meet_Patel_](https://codeforces.com/profile/_Meet_Patel_), 5⭐(2146) @Codechef [meetpatel_0963](https://www.codechef.com/users/meetpatel_0963)
+- Proficient in Data Stuctures, Algorithms and Object Oriented Programming
 
 ## Languages
 
@@ -35,11 +34,12 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
 ## My Stats
