@@ -3,7 +3,9 @@
 <p>
     <a href="https://www.linkedin.com/in/meet-patel-b1329a16b/"><img src="https://img.shields.io/badge/Meet Patel-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:meetpatel96301@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <p> <img src="https://komarev.com/ghpvc/?username=meetpatel0963&label=Profile%20views&color=0e75b6&style=flat" alt="Meet Patel" /></p>
 </p>
+
 
 ## 📖 About Me
 - Senior Analyst @Deutsche Bank, Pune, India
@@ -17,6 +19,7 @@
     - Object Oriented Design 
     - SOLID Principles and Design Patterns 
     - Backend Development
+- Check out - <a href="https://drive.google.com/file/d/1qQLGLgorJhhHl8uEnUAHJBHyRqrfH7Fu/view?usp=sharing" target="_blank">📄 Resume</a>
 
 ## Programming Languages
 
@@ -107,11 +110,11 @@
 
 ## My Stats
 
-![](https://komarev.com/ghpvc/?username=meetpatel0963&color=orange&style=flat-square)
-
-<p align="center">
-    <a href="https://github.com/meetpatel0963">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meetpatel0963&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meetpatel0963&layout=compact&langs_count=10&theme=algolia"/>
-    </a>
-</p>
+<h3 align=center>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meetpatel0963&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="meetpatel0963" />
+&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=meetpatel0963&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="meetpatel0963" />
+</h3>
+<h3 align=center>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meetpatel0963&theme=tokyonight" alt="meetpatel0963" />
+</h3>
