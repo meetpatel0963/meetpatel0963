@@ -19,7 +19,7 @@
     - Object Oriented Design 
     - SOLID Principles and Design Patterns 
     - Backend Development
-- Check out - <a href="https://drive.google.com/file/d/1jFpibma1AQFqK3yWI12aid4vnJi-Qbdp/view?usp=sharing" target="_blank">📄 Resume</a>
+- Check out - <a href="https://drive.google.com/file/d/13OpGA4oHkV8IHm6oiUQwHeuHN1HHEWc7/view?usp=sharing" target="_blank">📄 Resume</a>
 
 ## Programming Languages
 
