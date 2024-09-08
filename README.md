@@ -2,7 +2,7 @@
 
 <p>
     <a href="https://www.linkedin.com/in/meet-patel-b1329a16b/"><img src="https://img.shields.io/badge/Meet Patel-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:meetpatel96301@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="mailto:meet.patel.01729@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <p> <img src="https://komarev.com/ghpvc/?username=meetpatel0963&label=Profile%20views&color=0e75b6&style=flat" alt="Meet Patel" /></p>
 </p>
 
@@ -19,7 +19,7 @@
     - Object Oriented Design 
     - SOLID Principles and Design Patterns 
     - Backend Development
-- Check out - <a href="https://drive.google.com/file/d/1RMna0VFvOKICLdYNuPA-FmqANIGISanf/view?usp=sharing" target="_blank">📄 Resume</a>
+- Check out - <a href="https://drive.google.com/file/d/19N16icKKzVS3PTRZY6V0lA_AVA1xoENN/view?usp=sharing" target="_blank">📄 Resume</a>
 
 ## Programming Languages
 
