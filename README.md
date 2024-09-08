@@ -8,6 +8,7 @@
 
 
 ## 📖 About Me
+- Check out - <a href="https://drive.google.com/file/d/19N16icKKzVS3PTRZY6V0lA_AVA1xoENN/view?usp=sharing" target="_blank">📄 Resume</a>, <a href="https://meetpatel0963.github.io/#/home" target="_blank">🌐 Portfolio</a>
 - Senior Analyst @Deutsche Bank, Pune, India
 - 🖥 Full-stack Software Developer
 - 🎓 Graduated among the top 5% of the 2022 batch with a Bachelor's degree in Computer Science and Engineering from the Institute of Technology, Nirma University.
@@ -19,7 +20,6 @@
     - Object Oriented Design 
     - SOLID Principles and Design Patterns 
     - Backend Development
-- Check out - <a href="https://drive.google.com/file/d/19N16icKKzVS3PTRZY6V0lA_AVA1xoENN/view?usp=sharing" target="_blank">📄 Resume</a>
 
 ## Programming Languages
 
