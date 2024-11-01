@@ -13,8 +13,9 @@
 - 🖥 Full-stack Software Developer (Backend Heavy)
 - 🎓 Graduated among the top 5% of the 2022 batch with a Bachelor's degree in Computer Science and Engineering from the Institute of Technology, Nirma University.
 - 👨‍💻 Competitive Programmer
-    - Expert (1702) @![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white) [_Meet_Patel_](https://codeforces.com/profile/_Meet_Patel_)
-    - 5⭐(2146) @![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat&logo=CodeChef&logoColor=white) [meetpatel_0963](https://www.codechef.com/users/meetpatel_0963)
+    - Knight (Rating: 2006) @![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white) [_Meet_Patel_](https://leetcode.com/u/_Meet_Patel_/)
+    - Expert (Rating: 1702) @![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white) [_Meet_Patel_](https://codeforces.com/profile/_Meet_Patel_)
+    - 5⭐(Rating: 2146) @![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat&logo=CodeChef&logoColor=white) [meetpatel_0963](https://www.codechef.com/users/meetpatel_0963)
 - Proficient in: 
     - Data Stuctures and Algorithms 
     - Object Oriented Design 
