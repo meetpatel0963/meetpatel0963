@@ -9,8 +9,8 @@
 
 ## 📖 About Me
 - Check out - <a href="https://drive.google.com/file/d/19N16icKKzVS3PTRZY6V0lA_AVA1xoENN/view?usp=sharing" target="_blank">📄 Resume</a>, <a href="https://meetpatel0963.github.io/#/home" target="_blank">🌐 Portfolio</a>
-- Senior Analyst @Deutsche Bank, Pune, India
-- 🖥 Full-stack Software Developer
+- Backend Engineer (SDE II) @Deutsche Bank, Pune, India
+- 🖥 Full-stack Software Developer (Backend Heavy)
 - 🎓 Graduated among the top 5% of the 2022 batch with a Bachelor's degree in Computer Science and Engineering from the Institute of Technology, Nirma University.
 - 👨‍💻 Competitive Programmer
     - Expert (1702) @![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white) [_Meet_Patel_](https://codeforces.com/profile/_Meet_Patel_)
