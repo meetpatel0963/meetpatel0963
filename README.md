@@ -8,12 +8,13 @@
 
 
 ## 📖 About Me
-- Check out - <a href="https://drive.google.com/file/d/19N16icKKzVS3PTRZY6V0lA_AVA1xoENN/view?usp=sharing" target="_blank">📄 Resume</a>, <a href="https://meetpatel0963.github.io/#/home" target="_blank">🌐 Portfolio</a>
-- Backend Engineer (SDE II) @Deutsche Bank, Pune, India
+- Check out - <a href="https://drive.google.com/file/d/17MnXbpt0i7yRtJY7ETHhtJkTq74gkX6O/view?usp=sharing" target="_blank">📄 Resume</a>, <a href="https://meetpatel0963.github.io/#/home" target="_blank">🌐 Portfolio</a>
+- SDE II @Amazon - Bengaluru, India
+- Global Hackathon Winner @Deutsche Bank
 - 🖥 Full-stack Software Developer (Backend Heavy)
 - 🎓 Graduated among the top 5% of the 2022 batch with a Bachelor's degree in Computer Science and Engineering from the Institute of Technology, Nirma University.
 - 👨‍💻 Competitive Programmer
-    - Knight (Rating: 2006) @![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white) [_Meet_Patel_](https://leetcode.com/u/_Meet_Patel_/)
+    - Guardian (Rating: 2191) @![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white) [_Meet_Patel_](https://leetcode.com/u/_Meet_Patel_/)
     - Expert (Rating: 1702) @![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white) [_Meet_Patel_](https://codeforces.com/profile/_Meet_Patel_)
     - 5⭐(Rating: 2146) @![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat&logo=CodeChef&logoColor=white) [meetpatel_0963](https://www.codechef.com/users/meetpatel_0963)
 - Proficient in: 
